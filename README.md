@@ -26,13 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://youtu.be/jA9JTHeemqg) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part was changing the types of the optional. It took me a while to realize that an optinal also has a particular type it not "Any" by default.
 
 ## License
 
